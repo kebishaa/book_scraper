@@ -51,5 +51,5 @@ python scraper.py
 ●  Convert into a reusable scraping package  
 
 🙌 Author
-**Kibatu Mezgebu**
+**Kibatu Mezgebu**  
 Passionate about automation, web scraping, and data engineering.
