@@ -2,11 +2,13 @@
 
 A Python-based web scraping project that extracts book information from a multi-page website.
 The scraper automatically navigates through all pages, collects book details, and saves the results into organized files.
+
 # 🚀 Features
 ● Scrapes book titles and prices  
 ● Automatically detects and navigates through all pages  
 ● Saves data in structured format (CSV/JSON)  
 ● Error-handled, fast, and easy to run  
+
 🛠️ **Technologies Used**
 ● Python 3
 ● Requests – for sending HTTP requests
