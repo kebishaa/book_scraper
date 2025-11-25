@@ -30,13 +30,16 @@ book_scraper/
 
 git clone https://github.com/kebishaa/book_scraper.git
 cd book_scraper
+```
 2.**Install dependencies**
 ```
 pip install -r requirements.txt
+```
 
 3.**Run the scraper**
 ```
 python scraper.py
+```
 
 4. The scraped data will be saved inside the data/ folder.
 
