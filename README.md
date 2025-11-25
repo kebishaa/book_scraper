@@ -21,6 +21,8 @@ book_scraper/
 │── data/
 │     └── books.csv
 
+perl
+
 ▶️ **How to Run**
 
 1.**Clone the repository**
