@@ -45,10 +45,10 @@ python scraper.py
 
 
 🚀 **Future Improvements**
-●  Add image scraping
-●  Export data to SQL database
-●  Add a CLI interface
-●  Convert into a reusable scraping package
+●  Add image scraping  
+●  Export data to SQL database  
+●  Add a CLI interface  
+●  Convert into a reusable scraping package  
 
 🙌 Author
 **Kibatu Mezgebu**
