@@ -20,8 +20,7 @@ book_scraper/
 │── README.md
 │── data/
 │     └── books.csv
-
-```bash
+```
 
 
 ▶️ **How to Run**
