@@ -46,7 +46,7 @@ python scraper.py
 4. The scraped data will be saved inside the data/ folder.
 
 
-🚀**Future Improvements**
+🚀**Future Improvements**  
 ●  Add image scraping  
 ●  Export data to SQL database  
 ●  Add a CLI interface  
