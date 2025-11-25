@@ -21,7 +21,8 @@ book_scraper/
 │── data/
 │     └── books.csv
 
-perl
+```bash
+
 
 ▶️ **How to Run**
 
